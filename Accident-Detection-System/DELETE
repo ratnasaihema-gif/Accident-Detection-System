@@ -1,0 +1,19 @@
+# Accident Detection System
+
+## Overview
+This project detects accidents using MPU6050 sensor and sends alert using GSM module.
+
+## Components Used
+- STM32 / Arduino
+- MPU6050 Sensor
+- GSM Module
+
+## Working
+- Detects sudden movement
+- Sends alert message
+
+## Circuit Diagram
+![Circuit](Circuit-Diagram/circuit.png)
+
+## Output
+![Output](Images/output.png)
